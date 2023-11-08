@@ -1,3 +1,4 @@
+puts "inicio"
 a = File.open("lista.txt")
 linhas = []
 
